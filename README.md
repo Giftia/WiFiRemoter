@@ -1,2 +1,4 @@
+[![HitCount](http://hits.dwyl.io/Giftia/WiFiRemoter.svg)](http://hits.dwyl.io/Giftia/WiFiRemoter)
+### 禁止商用
 # WiFiRemoter
-被不良甲方咕了个项目，原交付项目名：新风控制智能WiFi遥控器
+## 新风控制智能物联WiFi遥控器，完整实现了Arduino IDE下ESP8266的自建WiFi AP和用户提供需连WiFi信息后的重建WiFi Client，具有图形化用户操作界面。
